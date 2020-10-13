@@ -4,7 +4,7 @@
   "description": "This is a test directory",
   "main": "index.html",
   "scripts": {
-    "start": "yarn run lite",
+    "start": "yarn run lite &",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
@@ -25,5 +25,10 @@
   "homepage": "https://github.com/edevargas/devui#readme",
   "devDependencies": {
     "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "@popperjs/core": "2.5.3",
+    "bootstrap": "4.5.2",
+    "jquery": "3.5.1"
   }
 }
