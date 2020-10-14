@@ -3,8 +3,11 @@ a{
     text-decoration: none;
     color: #70B3A1;
 }
-h1, h2, h3{
+h1, h2{
     color: #9c7573;
+}
+h3{
+    color: #f7a6a6;
 }
 /** ====== HEADER ====== */
 .jumbotron{
