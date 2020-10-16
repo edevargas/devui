@@ -1,4 +1,8 @@
 /** ====== GENERAL ====== */
+body{
+    padding-top: 50px;
+    z-index: 0;
+}
 a{
     text-decoration: none;
     color: #70B3A1;
@@ -46,4 +50,8 @@ h3{
 .address{
     font-size: 0.8em;
     margin: 0px;
+}
+/** ===== NAVBAR ==== */
+.navbar-regallery-primary {
+    background-color: #9c7573 !important;
 }
